@@ -1,2 +1,3 @@
-# 2017
-2017
+# SImple Sudoku game
+Simple Sudoku game
+
